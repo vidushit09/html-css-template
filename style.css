@@ -1,0 +1,140 @@
+.sec1{
+    background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/506524b5fe295a46bca10adb/vcvv-min.jpg");
+    background-position: 50% 50%;
+    height: 50vw;
+}
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+.title, .subtitle, .learn{
+    font-family: 'Open Sans',sans-serif;
+    text-align: center;
+    color: white;
+}
+.title {
+    width: 46vw;
+    margin: auto;
+    padding-top: 10vw;
+    font-size: 5vw;
+    font-weight: 200;
+}
+.subtitle {
+    margin: auto;
+    margin-top: 2vw;
+    font-size: 1.7vw;
+}
+.learn {
+    font-size: 1.8vw;
+    width: 14vw;
+    margin: auto;
+    margin-top: 7vw;
+    padding: 1vw 3vw;
+    border: 0.2vw solid white;
+}
+.subtitle a{
+    color: white;
+    text-decoration: none;
+    margin: 0vw 0.2vw;
+}
+.learn a{
+    color: white;
+    text-decoration: none;
+}
+.bluecircle{
+    color: #ffffff;
+    background-color: #3a4998;
+    width: 16vw;
+    height: 16vw;
+    border-radius: 8vw;
+    margin-top: 5vw;
+    margin-left: 12vw;
+    display: inline-block;
+}
+.benefits{
+    font-weight: 100;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 4.5vw;
+    width: 58vw;
+    text-align: right;
+    float: right;
+    margin-right: 13vw;
+    margin-top: 9vw;
+}
+.sec3{
+    width: 28vw;
+    color: black;
+    padding: 2vw;
+}
+.sec3 .title{
+    font-family: 'Open Sans',sans-serif;
+    color: black;
+    width: 22vw;
+    margin: 0vw;
+    padding-top: 2vw;
+    font-size: 2vw;
+    font-weight: 400;
+    margin-bottom: 2vw;
+}
+.sec3 .content{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 1.3vw;
+    font-weight: 100;
+    line-height: 2.5vw;
+}
+.sec3 .learn{
+    background-color: #3a4998;
+    color: white;
+    font-size: 1vw;
+    padding: 0.8vw;
+    width: 9vw;
+    margin: 0vw;
+    margin-top: 2vw;
+}
+.circle1{
+    background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/d5bb147d5bde5a67bcbcf3dd/fffff.jpg");
+    background-position: 50% 50%;
+    width: 38vw;
+    height: 38vw;
+    border-radius: 19vw;
+    background-repeat: no-repeat;
+    background-size: 60vw;
+    position: absolute;
+    margin-left: 17vw;
+}
+.circle2{
+    width: 19vw;
+    height: 18vw;
+    padding-top: 1vw;
+    border-radius: 9vw;
+    background-color: white;
+    position: relative;
+    top: 26vw;
+    left: 10vw;
+}
+.circle3{
+    background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/965c9d91f1a65635b869d281/close-up-guy-holding-controller_23-2148243619.jpg");
+    background-position: 50% 50%;
+    width: 17vw;
+    height: 17vw;
+    border-radius: 8.5vw;
+    background-repeat: no-repeat;
+    background-size: 27vw;
+    margin: auto;
+
+}
+.sec3 .healthy_brain{
+    width: 30vw;
+    background: #f2f2f2;
+    position: relative;
+    left: 52vw;
+    padding: 3vw;
+    top: -8vw;
+}
+.hollow_circle{
+    border: 2vw solid #e5bb8d;
+    width: 7vw;
+    height: 7vw;
+    border-radius: 7vw;
+    margin: -4vw 0vw 0vw 32vw;
+}
